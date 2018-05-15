@@ -1,0 +1,4 @@
+PCスペック　macOS High Sierra
+メモリ     8GB
+プロセッサ  2.3GHz Intel Core i5
+HD        256GB SSD
